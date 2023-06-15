@@ -1,7 +1,7 @@
 # Komunikacja-czlowiek-komputer
 
 
-UNIWERSYTET W BIAŁYMSTOKU
+                                                   UNIWERSYTET W BIAŁYMSTOKU
 WYDZIAŁ EKONOMICZNO-INFORMATYCZNY W WILNIE
 
  
