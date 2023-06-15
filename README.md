@@ -1,1 +1,1 @@
-# Komunikacja-cz-owiek-komputer-
+# Komunikacja-czlowiek-komputer
